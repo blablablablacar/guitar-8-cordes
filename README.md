@@ -9,5 +9,5 @@ Les différents fichiers sont à retrouver dans :
   -  PCB pour le Sustainer : sustainer_ger_corrige.zip
   -  Modéles 3D à imprimer : 3D_Prints.zip
   -  Les fichiers du corps de guitare à découper à la découpeuse laser : Decoupe_Laser.zip
-
+  -  Les fichiers du manche à découper à la machine CNC (ou à la main si assez courageux, expérimenté ou fou) : Manche.zip
 
