@@ -7,4 +7,6 @@ Celle-ci sera munis d'un micro actif qu'on va concevoir et construire, et d'un s
 Vous trouverez les fichier gerbers des circuits électrique du micro et du sustainer comprésseés sous format .zip :
   -  Micro actif dans la section :  micro_actif_ger.zip
   -  Sustainer dans la section : sustainer_ger_corrige.zip
-Vous trouverez les modèles 3D à imprimer dans la 
+
+Vous trouverez les modèles 3D à imprimer :
+  -  
