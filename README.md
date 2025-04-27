@@ -8,5 +8,5 @@ Vous trouverez les fichier gerbers des circuits électrique du micro et du susta
   -  Micro actif dans la section :  micro_actif_ger.zip
   -  Sustainer dans la section : sustainer_ger_corrige.zip
 
-Vous trouverez les modèles 3D à imprimer :
-  -  
+Vous trouverez les modèles 3D à imprimer : 3D_Prints
+
