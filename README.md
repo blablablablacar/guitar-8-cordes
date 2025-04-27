@@ -11,3 +11,4 @@ Les différents fichiers sont à retrouver dans :
   -  Les fichiers du corps de guitare à découper à la découpeuse laser : Decoupe_Laser.zip
   -  Les fichiers du manche à découper à la machine CNC (ou à la main si assez courageux, expérimenté ou fou) : Manche.zip
 
+![image](https://github.com/user-attachments/assets/fb5632c7-158d-4590-bcb2-34ada72e0f4e)
